@@ -12,4 +12,4 @@ so don't worry about cron timing.
 By default, the program prints logs to stderr.
 If you want logging to file, use simple stderr redirect operator, e.g.
 
-`php download.php 2> logfile.log`.
+`php download.php 2> logfile.log`
