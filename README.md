@@ -10,6 +10,6 @@ The program will run only once at the time, an attempt to run second instance of
 so don't worry about cron timing.
 
 By default, the program prints logs to stderr.
-If you want logging to file, use simple stderr redirect operator, e.g.
+If you want logging to file, simply use stderr redirect operator, e.g.
 
 `php download.php 2> logfile.log`
